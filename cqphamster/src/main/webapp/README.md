@@ -1,6 +1,6 @@
-# Yacep (yacaep)
+# cqphamster
 
-The standard web client used for the yacep platform.
+The standard web client used for the cqphamster platform.
 
 ## Install the dependencies
 ```bash
