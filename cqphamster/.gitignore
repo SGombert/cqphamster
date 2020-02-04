@@ -1,9 +1,10 @@
 node
 node_modules
 src/main/webapp/node_modules
-src/main/resources/static
+src/main/resources/static/**
 target
 
+.vscode
 
 .settings/
 .classpath
